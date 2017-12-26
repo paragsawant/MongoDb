@@ -1,9 +1,0 @@
-C:\Git\MongoDb\MongoDBAPI\MongoDBAPI\bin\Debug\netcoreapp1.1\MongoDBAPI.deps.json
-C:\Git\MongoDb\MongoDBAPI\MongoDBAPI\bin\Debug\netcoreapp1.1\MongoDBAPI.runtimeconfig.json
-C:\Git\MongoDb\MongoDBAPI\MongoDBAPI\bin\Debug\netcoreapp1.1\MongoDBAPI.runtimeconfig.dev.json
-C:\Git\MongoDb\MongoDBAPI\MongoDBAPI\bin\Debug\netcoreapp1.1\MongoDBAPI.dll
-C:\Git\MongoDb\MongoDBAPI\MongoDBAPI\obj\Debug\netcoreapp1.1\MongoDBAPI.csprojResolveAssemblyReference.cache
-C:\Git\MongoDb\MongoDBAPI\MongoDBAPI\obj\Debug\netcoreapp1.1\MongoDBAPI.AssemblyInfo.cs
-C:\Git\MongoDb\MongoDBAPI\MongoDBAPI\bin\Debug\netcoreapp1.1\MongoDBAPI.pdb
-C:\Git\MongoDb\MongoDBAPI\MongoDBAPI\obj\Debug\netcoreapp1.1\MongoDBAPI.dll
-C:\Git\MongoDb\MongoDBAPI\MongoDBAPI\obj\Debug\netcoreapp1.1\MongoDBAPI.pdb
